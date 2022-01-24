@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "La9JoHCMo+PGNu2jB9D05QEkSr4nMpgY9gvZegkZQMu3/EZn+4B5I9OIrsMDGKFmFeIpdKrFzgrcwl49m2OvGg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\wende\\Desktop\\Abstracao_RPG\\Abstracao_RPG.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wende\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
